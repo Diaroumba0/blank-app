@@ -11,7 +11,7 @@ import os
 # -------------------------------
 # Configuration
 # -------------------------------
-NOMS = ["Alice", "Bob", "Charlie", "Diane"]
+NOMS = ["Badoit vert 1L", "Badoit red 1L", "Perrier 1L", "Lutecia 0.5L","Hepar 75cl","Perrier 50cl","st pellecrino 50cl","Abatilles 0.5L","fountain of youth 1L","Evian 50cl"]
 FICHIER_HISTORIQUE = "historique.csv"
 
 # -------------------------------
